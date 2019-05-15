@@ -1,0 +1,28 @@
+ /* ============================================
+ *  contribute.css
+ *  A list of selectors that Contribute authors
+ *  can see and apply from the drop-down menu.
+ * --------------------------------------------
+ *  owner: PCC Web Team <webteam@pcc.edu>
+ *  author: Gabriel McGovern <gabriel.mcgovern@pcc.edu>
+ *  created: 	2007-12-02 
+ *	modified: 	2008-06-17 - Contribute CS3 borked how this was set up. Corrected it by including this in _screen.css :(
+ *  modified: 	2011-07-19 - added list-spacing class to mimic li>p
+ *  modified:   May 2015 for v5 launch
+ * ============================================ */
+	
+/* Headings */
+h3 { }
+h4 { }
+h5 { }
+h6 { }
+
+/* Other Styles */
+img.alignleft,
+img.alignright,
+img.aligncenter{}
+.section {margin-left: 1.5em;}
+
+img.size-percent-25, 
+img.size-percent-50, 
+img.size-percent-100 {min-width: 100px;}
